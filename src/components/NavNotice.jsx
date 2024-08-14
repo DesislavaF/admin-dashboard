@@ -59,6 +59,20 @@ function NavNotice() {
         <li>
           <hr className='dropdown-divider' />
         </li>
+
+        <li className='notification-item'>
+          <i className='bi bi-info-circle text-primary'></i>
+          <div>
+            <h4>Sit rerum fuga</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+            <p>4 hr. ago</p>
+          </div>
+        </li>
+
+        <li>
+          <hr className='dropdown-divider' />
+        </li>
+
         <li className='dropdown-footer'>
           <a href='#'>Show all notifications</a>
         </li>
