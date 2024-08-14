@@ -10,7 +10,7 @@ function NavAvatar() {
         data-bs-toggle="dropdown"
       >
         <img src={profileImg} alt='Profile' className='rounded-circle' />
-        <span className='d-none d-md-block dropdown-toggle ps-2'>I. Stoyanov</span>
+        <span className='d-none d-md-block dropdown-toggle ps-2'>D. Stoyanov</span>
       </a>
 
       <ul className='dropdown-menu dropdown-menu-end dropdown-menu-arrow profile'>
