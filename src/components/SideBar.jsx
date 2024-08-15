@@ -115,6 +115,79 @@ function SideBar() {
                     </li>
                 </ul>
             </li>
+
+            <li className='nav-item'>
+                <a
+                    className='nav-link collapsed'
+                    data-bs-target="#charts-nav"
+                    data-bs-toggle="collapse"
+                    href='#'
+                >
+                    <i className='bi bi-bar-chart'></i>
+                    <span>Charts</span>
+                    <i className='bi bi-chevron-down ms-auto'></i>
+                </a>
+                <ul
+                    id='charts-nav'
+                    className='nav-content collapse'
+                    data-bs-parent="#sidebar-nav"
+                >
+                    <li>
+                        <a href='#'>
+                            <i className='bi bi-circle'></i>
+                            <span>Chart.js</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href='#'>
+                            <i className='bi bi-circle'></i>
+                            <span>Apex Charts</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href='#'>
+                            <i className='bi bi-circle'></i>
+                            <span>ECharts</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li className='nav-item'>
+                <a
+                    className='nav-link collapsed'
+                    data-bs-target="#icons-nav"
+                    data-bs-toggle="collapse"
+                    href='#'
+                >
+                    <i className='bi bi-gem'></i>
+                    <span>Icons</span>
+                    <i className='bi bi-chevron-down ms-auto'></i>
+                </a>
+                <ul
+                    id='icons-nav'
+                    className='nav-content collapse'
+                    data-bs-parent="#sidebar-nav"
+                >
+                    <li>
+                        <a href='#'>
+                            <i className='bi bi-circle'></i>
+                            <span>Bootstrap Icons</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href='#'>
+                            <i className='bi bi-circle'></i>
+                            <span>Remix Icons</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href='#'>
+                            <i className='bi bi-circle'></i>
+                            <span>Boxicons</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </aside>
 }

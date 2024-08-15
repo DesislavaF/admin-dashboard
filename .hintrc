@@ -16,7 +16,9 @@
       {
         "ignore": [
           "scroll-behavior",
-          "inset"
+          "inset",
+          "scrollbar-color",
+          "scrollbar-width"
         ]
       }
     ]
