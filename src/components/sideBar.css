@@ -121,3 +121,21 @@
     padding: 5px 0 0 0;
     margin: 0;
 }
+
+.sidebar-nav .bi-circle{
+    font-size: 8px;
+    color: #333;
+    padding: 10px;
+    cursor: pointer;
+    
+    
+}
+.sidebar-nav .nav-item .bi-circle span {
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #060d4c;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
