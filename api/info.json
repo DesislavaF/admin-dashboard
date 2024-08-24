@@ -28,11 +28,155 @@
     "news": [
         {
             "_id": 1,
-            "img":
-            "title":
-            "subtitle":
-            "category":
-
+            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
+            "title": "Biggest sale ever",
+            "subtitle": "aa",
+            "category":"aa"
+        },
+        {
+            "_id": 2,
+            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
+            "title": "Biggest sale ever",
+            "subtitle": "aa",
+            "category":"aa"
+        },
+        {
+            "_id": 3,
+            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
+            "title": "Biggest sale ever",
+            "subtitle": "aa",
+            "category":"aa"
+        },
+        {
+            "_id": 4,
+            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
+            "title": "Biggest sale ever",
+            "subtitle": "aa",
+            "category":"aa"
+        }
+    ],
+    "topselling": [
+        {
+            "_id": 1,
+            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
+            "name": "abc",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 2,
+            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
+            "name": "abc",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 3,
+            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
+            "name": "abc",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 4,
+             "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
+            "name": "abc",
+             "price": 64,
+             "sold": 124
+         },
+         {
+            "_id": 5,
+            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
+            "name": "abc",
+             "price": 64,
+             "sold": 124
+         }
+    ],
+    "recentsales": [
+        {
+            "_id": 1,
+             "number": "#2457",
+             "customer": "Bramdom Jacob",
+             "product": "shoes",
+             "price": 64,
+             "status": "Approved"
+        },
+        {
+            "_id": 2,
+             "number": "#2147",
+             "customer": "Bridie Kessler",
+             "product": "shoes",
+             "price": 64,
+             "status": "Approved"
+        },
+        {
+            "_id": 3,
+             "number": "#2049",
+             "customer": "Ashley Brandan",
+             "product": "handbag",
+             "price": 147,
+             "status": "Approved"
+        },
+        {
+            "_id": 4,
+             "number": "#2644",
+             "customer": "Petar Ivanov",
+             "product": "T-shirt",
+             "price": 67,
+             "status": "Rejected"
+        },
+        {
+            "_id": 5,
+             "number": "#3592",
+             "customer": "Ivaylo Stoyanov",
+             "product": "sunglasses",
+             "price": 135,
+             "status": "Approved"
+        }
+    ],
+    "recentactivity": [
+        {
+            "_id": 1,
+             "time": "32 min",
+             "color": "text-success",
+             "content": "T-shirt",
+             "highlight": "aaa"
+        },
+        {
+            "_id": 2,
+             "time": "56 min",
+             "color": "text-success",
+             "content": "T-shirt",
+             "highlight": "aaa"
+        },
+        {
+            "_id": 3,
+             "time": "2 hrs",
+             "color": "text-success",
+             "content": "T-shirt",
+             "highlight": "aaa"
+        },
+        {
+            "_id": 4,
+             "time": "1 day",
+             "color": "text-success",
+             "content": "T-shirt",
+             "highlight": "aaa"
+        },
+        {
+            "_id": 5,
+             "time": "2 days",
+             "color": "text-success",
+             "content": "T-shirt",
+             "highlight": "aaa"
+        },
+        {
+            "_id": 6,
+             "time": "4 weeks",
+             "color": "text-success",
+             "content": "T-shirt",
+             "highlight": "aaa"
         }
     ]
+
 }
