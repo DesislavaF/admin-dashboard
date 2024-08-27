@@ -11,7 +11,7 @@
         {
             "_id": 2,
             "name": "Revenue",
-            "icon": "bi bi-ccurrency-dollar",
+            "icon": "bi bi-currency-dollar",
             "amount": 3246,
             "percentage": 0.08,
             "active": false
