@@ -1,0 +1,2 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+json-server --watch info.json --port 4000
