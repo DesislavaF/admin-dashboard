@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import './topSelling.css';
 import CardFilter from './CardFilter';
+import TopSellingItem from './TopSellingItem';
 
 function TopSelling() {
     const [items, setItems] = useState([]);

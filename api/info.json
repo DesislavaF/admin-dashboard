@@ -58,8 +58,8 @@
     "topselling": [
         {
             "_id": 1,
-            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
-            "name": "abc",
+            "preview": "../assets/items/nike.png",
+            "name": "shoes",
             "price": 64,
             "sold": 124
         },
