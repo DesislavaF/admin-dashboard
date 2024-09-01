@@ -107,7 +107,7 @@
              "customer": "Bridie Kessler",
              "product": "shoes",
              "price": 64,
-             "status": "Approved"
+             "status": "Pending"
         },
         {
             "_id": 3,
