@@ -58,38 +58,38 @@
     "topselling": [
         {
             "_id": 1,
-            "preview": "../assets/items/nike.png",
+            "preview": "https://www.sportvision.bg/files/thumbs/files/images/slike_proizvoda/media/AH6/AH6789-001/images/thumbs_800/AH6789-001_800_800px.jpg",
             "name": "shoes",
             "price": 64,
             "sold": 124
         },
         {
             "_id": 2,
-            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
-            "name": "abc",
-            "price": 64,
-            "sold": 124
+            "preview": "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dwc49909bc/images/DIS/L1621089P68_3.png?sw=800&sh=800&sm=fit",
+            "name": "handbag",
+            "price": 46,
+            "sold": 81
         },
         {
             "_id": 3,
-            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
-            "name": "abc",
-            "price": 64,
-            "sold": 124
+            "preview": "https://www.sportihobi.bg/sites/default/files/styles/uc_product_full/public/260288703/60288703_xxl.jpg?itok=NjuKZMfq",
+            "name": "T-shirt ",
+            "price": 46,
+            "sold": 96
         },
         {
             "_id": 4,
-             "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
-            "name": "abc",
-             "price": 64,
-             "sold": 124
+             "preview": "https://broadwayjewellers.co.za/cdn/shop/products/fossil-grant-light-brown-leather-men-watch-fs5151_1_1200x.jpg?v=1659405969",
+            "name": "watch",
+             "price": 80,
+             "sold": 130
          },
          {
             "_id": 5,
-            "preview": "https://thumbs.dreamstime.com/b/preview-banner-template-ribbon-label-sign-179671976.jpg",
-            "name": "abc",
-             "price": 64,
-             "sold": 124
+            "preview": "https://www.heatwavevisual.com.au/cdn/shop/files/Black-Black-Front_acdbe7c2-0bac-4e81-9166-885545e4a88b_2000x_jpg_1200x.webp?v=1706647044",
+            "name": "sunglasses",
+             "price": 45,
+             "sold": 73
          }
     ],
     "recentsales": [
