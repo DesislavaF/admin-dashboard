@@ -140,42 +140,49 @@
              "time": "32 min",
              "color": "text-success",
              "content": "T-shirt",
-             "highlight": "aaa"
+             "highlight": "The best"
         },
         {
             "_id": 2,
              "time": "56 min",
-             "color": "text-success",
-             "content": "T-shirt",
-             "highlight": "aaa"
+             "color": "text-danger",
+             "content": "sunglasses",
+             "highlight": ""
         },
         {
             "_id": 3,
              "time": "2 hrs",
-             "color": "text-success",
-             "content": "T-shirt",
-             "highlight": "aaa"
+             "color": "text-primary",
+             "content": "shoes",
+             "highlight": ""
         },
         {
             "_id": 4,
              "time": "1 day",
-             "color": "text-success",
+             "color": "text-info",
              "content": "T-shirt",
-             "highlight": "aaa"
+             "highlight": "The best deal"
         },
         {
             "_id": 5,
              "time": "2 days",
-             "color": "text-success",
+             "color": "text-warning",
              "content": "T-shirt",
-             "highlight": "aaa"
+             "highlight": ""
         },
         {
             "_id": 6,
              "time": "4 weeks",
-             "color": "text-success",
-             "content": "T-shirt",
-             "highlight": "aaa"
+             "color": "text-muted",
+             "content": "handbag",
+             "highlight": ""
+        },
+        {
+            "_id": 7,
+             "time": "2 month",
+             "color": "text-muted",
+             "content": "handbag",
+             "highlight": ""
         }
     ]
 
