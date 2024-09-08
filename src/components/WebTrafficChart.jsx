@@ -3,7 +3,7 @@ import * as echarts from 'echarts';
 
 function WebTrafficChart() {
     useEffect(() => {
-        echarts.init(document.querySelector('#trafficChary')).setOption({
+        echarts.init(document.querySelector('#trafficChart')).setOption({
             tooltip: {
                 trigger: 'item',
             },
@@ -27,13 +27,42 @@ function WebTrafficChart() {
                             fontSize: '18',
                             fontWeight: 'bold'
                         }
-                    }
+                    },
+                    labelLine: {
+                        show: false,
+                    },
+                    data: [
+                        {
+                            value: 1048,
+                            name: 'Search Engine',
+                        },
+                        {
+                            value: 735,
+                            name: 'Direct',
+                        },
+                        {
+                            value: 580,
+                            name: 'Email',
+                        },
+                        {
+                            value: 484,
+                            name: 'Union Ads',
+                        },
+                        {
+                            value: 300,
+                            name: 'Video Ads',
+                        }
+                    ]
                 }
             ]
         })
-    })
+    }, []);
   return (
-    <div>WebTrafficChart</div>
+    <div
+        id='trafficChart'
+        style={{minHeight: '400px'}}
+        className='echart'
+    ></div>
   )
 }
 

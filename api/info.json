@@ -28,31 +28,31 @@
     "news": [
         {
             "_id": 1,
-            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
-            "title": "Biggest sale ever",
-            "subtitle": "aa",
-            "category":"aa"
+            "img": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FGN254CYRXBKIBNZM3RR76CGLJY.jpg?auth=9ce696ba45cc36b4c00d88e40e1081ad689dabed6b40d4f7e1f7ae72cd831a2d&width=960&quality=80",
+            "title": "Dell, Palantir and Erie Indemnity to join S&P 500",
+            "subtitle": "Sept 6 (Reuters) - The S&P Dow Jones Indices said on Friday server maker Dell Technologies (DELL.N), opens new tab, data analytics firm Palantir Technologies (PLTR.N), opens new tab and property and casualty insurer Erie Indemnity (ERIE.O), opens new tab will join the benchmark S&P 500 (.SPX), opens new tab before the market opens on Sept. 23.",
+            "category":"Technology"
         },
         {
             "_id": 2,
-            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
-            "title": "Biggest sale ever",
-            "subtitle": "aa",
-            "category":"aa"
+            "img": "https://www.reuters.com/resizer/v2/6PCTSQTAXJJCXLQHVMTMIPWVGA.jpg?auth=4619934f03a6f9c2c9d496d53339b34f2145876e67fb476e5faeebc0d47bcf95&width=960&quality=80",
+            "title": "GameStop options trade scores $550,000 profit after Roaring Kitty post",
+            "subtitle": "NEW YORK, Sept 6 (Reuters) - A well-timed trade in GameStop's (GME.N), opens new tab options reaped a handsome profit on Friday after an account associated with Roaring Kitty, a stock influencer and longtime champion for the video game retailer, published a cryptic post on social media platform X.",
+            "category":"Technology"
         },
         {
             "_id": 3,
-            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
-            "title": "Biggest sale ever",
-            "subtitle": "aa",
-            "category":"aa"
+            "img": "https://www.reuters.com/resizer/v2/54GMXDZIZBJK3LI2WDJFRASMNM.jpg?auth=e25e989399c32af6618ba8513259c4d62122a4a0ac5061c6646bb9b7806eea1d&width=960&quality=80",
+            "title": "PayPal pushes into in-person payments with cashback rewards, Apple integration",
+            "subtitle": "Sept 5 (Reuters) - PayPal (PYPL.O), opens new tab is expanding into U.S. point-of-sale payments by integrating its debit card with Apple's mobile wallet and offering 5% cashback rewards, as the global online payments giant seeks direct competition with tech companies and banks.",
+            "category":"Future of money"
         },
         {
             "_id": 4,
-            "img": "https://t4.ftcdn.net/jpg/02/79/96/51/360_F_279965115_Cn6cnCB0uNTOmD8Hv0mgFrGtYLukopir.jpg",
-            "title": "Biggest sale ever",
-            "subtitle": "aa",
-            "category":"aa"
+            "img": "https://www.reuters.com/resizer/v2/4VFEYUSSZJLYVJOYYWFANNG6II.jpg?auth=cd6158aa86e28495a79791d17a5010d8f4be75e752ec5ab56d2ed974ecc403e4&width=720&quality=80",
+            "title": "Musk says SpaceX to launch first uncrewed Starships to Mars in two years",
+            "subtitle": "Sept 7 (Reuters) - SpaceX will launch its first uncrewed Starships to Mars in two years when the next Earth-Mars transfer window opens, Chief Executive Officer Elon Musk said, opens new tab in a post on social media platform X on Saturday.",
+            "category":"Technology"
         }
     ],
     "topselling": [
